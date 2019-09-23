@@ -20,5 +20,5 @@ the principal benefits are:
 * Deletes the lambda from AWS
 * Can be used to support development in any language and IDE
 
-[See the BJSS Kepler page](https://kepler.bjss.com/display/~Bradley.Atkins/AWS+Lambdas)
+[See the Wiki page](https://github.com/museadmin/lambda_jig/wiki)
 for a detailed explanation.
