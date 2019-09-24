@@ -33,7 +33,6 @@ build: clean build_package_tmp zip
 
 build_package_tmp:
 	mkdir -p $(PACKAGE_TMP)
-	pip freeze > requirements.txt
 	pip install -r requirements.txt -t $(PACKAGE_TMP)
 	cp -a ./src/* $(PACKAGE_TMP)
 
